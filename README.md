@@ -5,7 +5,7 @@ Morocco · open to remote and relocation
 
 **Sightline**: where a match, film or series can legally be watched, in 139 markets. Next.js, Redis, Zod. [sightlinetv.com](https://sightlinetv.com) · [case study](https://github.com/shad-yy/sightline-case-study)
 
-**Rihla**: an offline-first, multi-tenant, Arabic-first app for freight carriers. Six enforced layers, Postgres row-level security, 98.58% mutation score on the business rules. [case study](https://github.com/shad-yy/rihla-case-study)
+**Rihla**: an offline-first, multi-tenant, Arabic-first app for freight carriers. Six enforced layers, Postgres row-level security with a permission matrix, 98.58% mutation score on the business rules, and CI that blocks every pull request. [case study](https://github.com/shad-yy/rihla-case-study)
 
 Small things you can run, taken from those two:
 - [tariff-dead-zone](https://github.com/shad-yy/tariff-dead-zone): finds the weights where a parcel tariff charges more for sending less. Example, property and mutation tests in CI.
